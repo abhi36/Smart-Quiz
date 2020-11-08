@@ -69,10 +69,10 @@ To add an additional question, copy the entire curly bracket block:
 ```
 There is also a variable at the top to add the quiz title.
 
-**Source of the codebase
+**Source of the codebase**
 ===========================
 Simple JS, multiple choice quiz, based off of https://github.com/jrue/JavaScript-Quiz & https://github.com/BobbyBLACK/JavaScript_QUIZ with some modifications to the functionality and bootstrap implementation
 
 
-**To-do
+**To-do**
 ===========================
